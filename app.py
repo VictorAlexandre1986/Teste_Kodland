@@ -448,8 +448,5 @@ if __name__ == '__main__':
     print("\nPara executar o jogo, use um dos seguintes comandos no terminal:")
     print("1. pgzrun app.py")
     print("2. python -m pgzero app.py")
-    print("\nSe o comando pgzrun não for encontrado, você pode usar o caminho completo:")
-    print("C:\\Users\\USER\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python312\\Scripts\\pgzrun.exe app.py")
-    print("\nOu adicione o diretório Scripts ao seu PATH do sistema.")
     print("=== BOA DIVERSÃO! ===")
 
