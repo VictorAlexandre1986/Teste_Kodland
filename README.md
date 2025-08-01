@@ -27,7 +27,7 @@ Um jogo de plataforma feito com **PgZero**, onde você controla um guerreiro esq
 Você pode instalar usando pip:
 
 ```bash
-pip install pgzero
+pip install -r requirements.txt
 ```
 
 Como rodar 
