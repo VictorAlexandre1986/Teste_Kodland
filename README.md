@@ -28,3 +28,9 @@ Você pode instalar usando pip:
 
 ```bash
 pip install pgzero
+```
+
+Como rodar 
+```
+python -m pgzero app.py
+```
