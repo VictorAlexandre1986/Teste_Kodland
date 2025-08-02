@@ -1,6 +1,6 @@
 # 🦴 Aventura do Esqueleto - Platformer Game
 
-Um jogo de plataforma feito com **PgZero**, onde você controla um guerreiro esqueleto enfrentando orcs em uma floresta mística. Corra, salte e ataque para sobreviver!
+Um jogo de plataforma feito com **Python**, onde você controla um guerreiro esqueleto enfrentando orcs em uma floresta mística. Corra, salte e ataque para sobreviver!
 
 ## 🎮 Como Jogar
 
