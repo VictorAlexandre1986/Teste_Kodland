@@ -26,7 +26,7 @@ ground_y = 600  # Nova posição do chão
 
 # Music
 music_file = "bg_music.ogg"
-music_available = False  # Set to False since we don't have the music file yet
+music_available = True  # Set to False since we don't have the music file yet
 
 # Game variables
 player_lives = 5
@@ -443,6 +443,9 @@ def on_mouse_down(pos):
 
 # Iniciar o jogo quando o script é executado diretamente
 if __name__ == '__main__':
+    music.set_volume(0.4)
+    if music_available:
+        music.play(music_file)
     print("=== INSTRUÇÕES PARA EXECUTAR O JOGO ===")
     print("O pgzero foi instalado com sucesso, mas este arquivo não deve ser executado diretamente com python.")
     print("\nPara executar o jogo, use um dos seguintes comandos no terminal:")
