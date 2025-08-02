@@ -22,7 +22,7 @@ Um jogo de plataforma feito com **PgZero**, onde você controla um guerreiro esq
 - Python 3.10+ instalado
 - PgZero instalado
 
-### Instale o PgZero
+### Instale as dependencias
 
 Você pode instalar usando pip:
 
